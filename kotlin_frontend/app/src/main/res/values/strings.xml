@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Note Organizer</string>
+    <string name="hint_search_notes">Search notes</string>
+    <string name="cd_add_note">Add note</string>
+    <string name="category_all">All</string>
+    <string name="menu_manage_categories">Manage categories</string>
+    <string name="title_edit_note">Edit Note</string>
+    <string name="title_new_note">New Note</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="label_title">Title</string>
+    <string name="label_content">Content</string>
+    <string name="label_category">Category</string>
+    <string name="title_note_detail">Note</string>
+    <string name="empty_note_title">(No Title)</string>
+</resources>
